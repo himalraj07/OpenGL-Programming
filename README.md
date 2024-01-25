@@ -2,26 +2,6 @@
 
 Welcome to the **OpenGL Programming** repository! 🚀 Dive into the exciting world of computer graphics with this comprehensive GitHub repository dedicated to OpenGL programming. Whether you're a graphics enthusiast or a developer aiming to master the art of creating stunning visual experiences, this repository has been curated to guide you through the essentials of OpenGL.
 
-## Key Features:
-
-### **🎨 Graphics Exploration**
-Embark on a journey through the realm of computer graphics with OpenGL. Learn to create visually captivating scenes, manipulate objects, and understand the principles that bring digital worlds to life.
-
-### **🚀 Comprehensive Coverage**
-Explore the entire OpenGL spectrum, covering foundational concepts, rendering techniques, shader programming, and advanced topics to empower you with the skills needed to craft immersive graphics applications.
-
-### **🖌️ Practical Examples**
-Immerse yourself in hands-on learning through practical examples and real-world projects that reinforce your understanding of OpenGL concepts. Develop the skills to build your own graphics applications from scratch.
-
-### **📚 Resource-Rich Repository**
-Access a wealth of resources, including code snippets, documentation, and supplementary materials that complement the course content. Enhance your understanding of OpenGL and gain valuable insights into graphics programming.
-
-### **👩‍💻 Community Collaboration**
-Join a vibrant community of graphics enthusiasts and developers. Connect with peers, share your experiences, seek advice, and collaborate on OpenGL projects to enrich your learning journey.
-
-### **📅 Stay Updated**
-Keep abreast of the latest developments in OpenGL programming. This repository is regularly updated to incorporate industry trends, new features, and best practices in graphics programming.
-
 ## Getting Started
 
 If you're new to OpenGL or want to refresh your knowledge, start with the following resources:
